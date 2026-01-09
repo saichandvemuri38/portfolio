@@ -13,8 +13,8 @@ export default {
         'editorial-accent': '#C5A572',
       },
       fontFamily: {
-        'serif-display': ['"Bradford LL"', 'serif'],
-        'serif-body': ['"Bradford LL"', 'serif'],
+        'serif-display': ['"Playfair Display"', 'serif'],
+        'serif-body': ['Lora', 'serif'],
       },
     },
   },

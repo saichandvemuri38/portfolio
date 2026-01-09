@@ -21,11 +21,12 @@
 }
 
 body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
+  background-color: #FDFCF0;
+  color: #1A1A1A;
   min-height: 100vh;
   width: 100vw;
   overflow-x: hidden;
+  font-family: 'Lora', serif;
 }
 
 #root {

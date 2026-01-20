@@ -44,7 +44,6 @@ const TimelineItem = ({ job }: { job: any }) => {
                 whileInView={{ scale: [1, 1.5, 1], backgroundColor: "#C5A572" }}
                 transition={{ duration: 0.5, delay: 0.2 }}
             />
-
             <div className="flex flex-col md:flex-row md:justify-between md:items-baseline mb-6">
                 <h4 className="text-4xl font-serif-display font-medium text-[#1A1A1A] group-hover:text-[#C5A572] transition-colors duration-300">
                     {job.company}

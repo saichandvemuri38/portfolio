@@ -1,6 +1,8 @@
 import { motion } from 'framer-motion';
 import { resumeData } from '../data/resumeData';
 
+
+
 const SkillsArsenal = () => {
     return (
         <section className="py-12 bg-[#1A1A1A] text-[#FDFCF0] -mx-6 md:-mx-20 px-6 md:px-20 mt-20">
